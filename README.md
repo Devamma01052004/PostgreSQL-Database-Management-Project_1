@@ -3,10 +3,15 @@ PostgreSQL / Database Management Project
 Project Name
 PostgreSQL Database Analysis
 
+
+
+
 Description
 This project focuses on SQL queries using PostgreSQL. It includes data analysis, joins, subqueries, and aggregations.
 
 Tools Used
+
+
 PostgreSQL
 pgAdmin
 Files
